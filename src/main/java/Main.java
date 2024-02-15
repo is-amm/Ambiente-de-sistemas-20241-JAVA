@@ -6,6 +6,9 @@ public class Main {
   public static void main(String[] args) {
     TrocaDeVariaveis t = new TrocaDeVariaveis();
     t.TrocaDeValores();
+
+    SomaDeNumeros s = new SomaDeNumeros();
+    s.SomaDeNumeros();
   }
 
   // @Test
