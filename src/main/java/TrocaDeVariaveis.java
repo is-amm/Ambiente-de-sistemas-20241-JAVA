@@ -1,6 +1,6 @@
 public class TrocaDeVariaveis {
    int a = 15, b = 56, aux;
-  public void TrocaDeValores() {
+  public void trocaDeValores() {
     System.out.println("Valor de a: "+a);
     System.out.println("Valor de b: "+b);
     System.out.println("Valor de aux: "+aux);

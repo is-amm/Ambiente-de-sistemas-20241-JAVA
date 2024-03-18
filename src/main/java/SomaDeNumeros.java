@@ -4,7 +4,7 @@ public class SomaDeNumeros {
   Scanner prompt = new Scanner(System.in);
   int n, num, soma = 0, i = 0;
 
-  public void SomaDeNumeros() {
+  public void somaDeNumeros() {
     System.out.print("Quantos numeros a serem somados: ");
     n = prompt.nextInt();
     while (i < n) {
