@@ -11,5 +11,8 @@ public class Main {
     
     MDC MaximoDivisorComum = new MDC();
     MaximoDivisorComum.executarCalculoMDC();
+
+    Contagem c = new Contagem();
+    c.Contagem;
   }
 }

@@ -1,0 +1,18 @@
+public class Main {
+  public static void main(String[] args) {
+    //TrocaDeVariaveis t = new TrocaDeVariaveis();
+    //t.trocaDeValores();
+
+    //SomaDeNumeros s = new SomaDeNumeros();
+    //s.somaDeNumeros();
+
+    //Fibonacci f = new Fibonacci();
+    //f.sequenciafibonacci();
+
+    int num1 = 48;
+    int num2 = 18;
+
+    int mdc = MaximoDivisorComum.calcularMDC(num1, num2);
+    System.out.println("O MDC de " + num1 + " e " + num2 + " é: " + mdc);
+  }
+}
